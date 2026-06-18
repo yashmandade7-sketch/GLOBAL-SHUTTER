@@ -1,0 +1,6 @@
+{
+  "name": "Global Shutter",
+  "description": "Premium commercial and advertisement production house website including an interactive camera shutter speed calculator and dynamic project brief builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
